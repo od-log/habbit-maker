@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Habit from "./habit";
-import HabitAddForm from "./habitAddForm";
+import HabitAddForm from "../components/form/habitAddForm";
 
 const Habits = ({
   habits,
